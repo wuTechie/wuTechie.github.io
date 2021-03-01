@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I’m a tenacious seeker of truth, and technology enthusiast living in the greater Seattle area.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+i’m thirsty for new ideas and knowledge.
+
+i enjoy the outdoors…
+
+and other fun stuff.
+
+i’m from Sitka, Alaska!
+
+www.joelnicolas.com
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[joel@joelnicolas.com](mailto:joel@joelnicolas.com)
