@@ -16,7 +16,7 @@ and other fun stuff.
 
 i’m from Sitka, Alaska!
 
-www.joelnicolas.com
+[www.joelnicolas.com](https://joelnicolas.com/)
 
 ### Contact me
 
