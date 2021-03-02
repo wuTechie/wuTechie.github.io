@@ -27,8 +27,8 @@ footer-links:
   pinterest: j03l
   rss: wutechie
   twitter: b1ur1t
-  stackoverflow: channel/UCrv-xThIkEuKEq2oocxVxSw # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: channel/UCrv-xThIkEuKEq2oocxVxSw # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
