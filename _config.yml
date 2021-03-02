@@ -18,17 +18,17 @@ avatar: https://avatars.githubusercontent.com/u/62572690?s=400&u=b18dcf055cf49cf
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: joel.nicolas@gmail.com
-  facebook: joelnicolas360
-  flickr: j03l
-  github: wuTechie
+  email:
+  facebook:
+  flickr: 
+  github:
   instagram: j03l_
   linkedin: joelnicolas
-  pinterest: j03l
+  pinterest: 
   rss: wutechie
-  twitter: b1ur1t
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/UCrv-xThIkEuKEq2oocxVxSw/videos # channel/<your_long_string> or user/<user-name>
+  youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
