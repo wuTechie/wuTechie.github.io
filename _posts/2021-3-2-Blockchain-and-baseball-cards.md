@@ -8,3 +8,5 @@ What a fascinating time to be a collector! Back in the day, I collected baseball
 > [NBA Top Shot](https://www.nbatopshot.com/)
 
 These digital "moments" are going fast and selling for a premium! Some digital moments are currently being listed in the hundreds of thousands of dollars. It's cool to be able to witness the digital marketplace and the law of supply and demand in action! Let's see how it goes,
+
+![](https://i.imgur.com/zIIKUx4.jpg)
