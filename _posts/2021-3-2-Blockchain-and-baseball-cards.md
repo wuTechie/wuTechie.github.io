@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Block chain and baseball cards
+title: Blockchain and Trading Cards
 ---
-What a fascinating time to be a collector! Back in the day, I collected cards from upper deck, tops, etc. and now you can buy collectibles using block chain to ensure trading digital collectables are fun and safe. Here is NBA's answer and they have been making headlines with their offering:
+What a fascinating time to be a collector! Back in the day, I collected baseball cards from upper deck, tops, etc. and now you can buy digital collectibles using blockchain to ensure buying, trading, and selling digital collectibles are safe and fun. Here is NBA's answer and they have been making headlines with their offering:
 
 
 > [NBA Top Shot](https://www.nbatopshot.com/)
